@@ -1,1 +1,4 @@
-# calculatorcpp
+# Shapes calculator using cpp
+
+Shapcalc is the original code for creating a class to compute  area 
+the rest are the same calculator using functions but in diffrent ways 
